@@ -3,6 +3,10 @@
 ## Project Overview
 A React-based web application for AI-powered image transformations (ASCII, pixel art, Gemini description) and animations. Designed as an offline-first PWA.
 
+## Important Accounts
+- **GitHub Owner**: `socialawy-dev`
+- **Primary Contact**: `ahmed.itc@gmail.com`
+
 ## Tech Stack
 - **Framework**: React 18 & Vite
 - **Language**: TypeScript
