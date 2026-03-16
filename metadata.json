@@ -1,0 +1,6 @@
+{
+  "name": "Image Transformer & Animator",
+  "description": "An advanced image transformation and animation tool supporting various conversions (ASCII, pixel art, AI rendering) and animation templates, with multiple export formats.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
